@@ -15,7 +15,7 @@
 - 💬 Ask me about **Javascript, react, MERN, SQL**
 
 - 📫 How to reach me **emyokalla@gmail.com**
--                     **(https://www.linkedin.com/in/emmy-okalla/)**
+-                     **LinkedIn: emmy-okalla**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
