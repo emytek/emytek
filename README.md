@@ -1,21 +1,17 @@
 - 👋 Hi, I’m Nnaemeka Okalla @emytek
 
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)]
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Nnaemeka Okalla</h1>
 <h3 align="center">A fullstack web developer</h3>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emytek" alt="emytek" /></a> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIL7iqhE2dw3ZYHAhBWNiNUDOwxieKA7HY6llreKBIxC0zQ3huob0OomlOpysGMk8k9Wc&usqp=CAU" alt="emytek" /> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emytek" alt="emytek" /></a> </p>
 
 - 🔭 I’m currently working on **Single page applications and server side rendering applications with the MERN stack and Next js**
-
 - 🌱 I have expertise in **Advanced folder structure using MVC, Building single page applications with react and vue js, using Next js, Nuxt js and other frameworks for server-side rendering, NoSQL Database querying using MongoDB, React and API Testing, Consuming and integrating APIs, Containerization with docker and kubernetes, AWS serverless**
 
 - 💬 Ask me about **Javascript, react, MERN, SQL**
 
 - 📫 How to reach me **emyokalla@gmail.com**
--                     **LinkedIn: emmy-okalla**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
