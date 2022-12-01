@@ -7,7 +7,7 @@
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emytek" alt="emytek" /></a> </p>
 
 - 🔭 I’m currently working on **Single page applications and server side rendering applications with the MERN stack and Next js**
-- 🌱 I have expertise in **Advanced folder structure using MVC, Building single page applications with react and vue js, using Next js, Nuxt js and other frameworks for server-side rendering, NoSQL Database querying using MongoDB, React and API Testing, Consuming and integrating APIs, Containerization with docker and kubernetes, AWS serverless**
+- 🌱 I have expertise in **Building single page applications with react and vue js, using Next js, Nuxt js and other frameworks for server-side rendering, Applying MVC in fullstack web development, NoSQL Database querying using MongoDB, React and API Testing, Consuming and integrating APIs, Containerization with docker and kubernetes, AWS serverless**
 
 - 💬 Ask me about **Javascript, react, MERN, SQL**
 
