@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nnaemeka Okalla @emytek
 
-[![MasterHead](https://github.com/Deeptiman/react-myportfolio/blob/master/screenshots/banner_my_portfolio.png?raw=true)]
+[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)]
 <h1 align="center">Hi 👋, I'm Nnaemeka Okalla</h1>
 <h3 align="center">A fullstack web developer</h3>
 
