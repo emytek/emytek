@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nnaemeka Okalla</h1>
 <h3 align="center">A fullstack web developer</h3>
 
-<p align="left"> <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg" alt="emytek" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emytek" alt="emytek" /></a> </p>
 
