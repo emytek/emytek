@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nnaemeka Okalla @emytek
 
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)
+![MasterHead](https://media-exp1.licdn.com/dms/image/D4D03AQFFzODo-dWcNg/profile-displayphoto-shrink_200_200/0/1665468861345?e=1676505600&v=beta&t=fX6_qOBGWXJRPMLD8cgX80SkwE58T8V_abGG-hrEGzU)
 <h1 align="center">Hi 👋, I'm Nnaemeka Okalla</h1>
 <h3 align="center">A fullstack web developer</h3>
 <!-- <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIL7iqhE2dw3ZYHAhBWNiNUDOwxieKA7HY6llreKBIxC0zQ3huob0OomlOpysGMk8k9Wc&usqp=CAU" alt="emytek" /> </p> -->
