@@ -7,7 +7,7 @@ Fullstack Developer (MERN)
 I have expertise in Building single page applications with react and vue js, using Next js, Nuxt js and other frameworks for server-side rendering, Applying MVC in fullstack web development, NoSQL Database querying using MongoDB, React and API Testing, Consuming and integrating APIs.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [emmyokalla.dev](http://portfolio-fn.vercel.app)
+* 🖥️  See my portfolio at [portfolio-fn.vercel.app](http://portfolio-fn.vercel.app)
 * ✉️  You can contact me at [emyokalla@gmail.com](mailto:emyokalla@gmail.com)
 * 🧠  I'm learning Containerized applications
 * 🤝  I'm open to collaborating on Interesting and challenging projects
