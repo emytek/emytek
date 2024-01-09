@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer (MERN)
 --------------------------
 
-I have expertise in Building single page applications with react and vue js, using Next js, Nuxt js and other frameworks for server-side rendering, Applying MVC in fullstack web development, NoSQL Database querying using MongoDB, React and API Testing, Consuming and integrating APIs.
+Exemplifying a decade-long proficiency in fullstack development, I am a seasoned Senior Fullstack Engineer known for architecting robust solutions that harmonize innovation with functionality. My expertise lies in seamlessly navigating through the complexities of both frontend and backend technologies, delivering scalable and high-performance applications.  Proficient in a spectrum of programming languages such as JavaScript (Node.js, React.js, Vue.js), Python, and Java, I wield a comprehensive understanding of modern frameworks and libraries to engineer dynamic user experiences and powerful backend systems. Also adept at designing and implementing intricate system architectures, I leverage best practices in cloud computing (AWS, Azure) and microservices to ensure scalability, reliability, and security.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [portfolio-fn.vercel.app](http://portfolio-fn.vercel.app)
 * ✉️  You can contact me at [emyokalla@gmail.com](mailto:emyokalla@gmail.com)
-* 🧠  I'm learning Containerized applications
+* 🧠  I'm working on Containerized applications
 * 🤝  I'm open to collaborating on Interesting and challenging projects
-* ⚡  I'm quite invisible😊
+* ⚡  Strictly code😊
 
 ### Skills
 
